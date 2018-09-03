@@ -1,0 +1,18 @@
+﻿
+Synchronous HTTP Call :
+
+bayamba@Bayamba:~/Documents$ python3 http_call.py
+Mon, 03 Sep 2018 01:20:52 GMT
+Mon, 03 Sep 2018 01:20:53 GMT
+Mon, 03 Sep 2018 01:20:54 GMT
+
+Asynchronous HTTP Call :
+
+bayamba@Bayamba:~/Documents$ python3 http_async_call.py
+Request 2 : Mon, 03 Sep 2018 01:19:27 GMT
+Request 1 : Mon, 03 Sep 2018 01:19:28 GMT
+Request 3 : Mon, 03 Sep 2018 01:19:29 GMT
+Request 1 : Mon, 03 Sep 2018 01:19:30 GMT
+Request 3 : Mon, 03 Sep 2018 01:19:31 GMT
+Request 3 : Mon, 03 Sep 2018 01:19:32 GMT
+Request 3 : Mon, 03 Sep 2018 01:19:32 GMT
